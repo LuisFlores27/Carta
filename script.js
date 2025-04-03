@@ -112,7 +112,7 @@ noButton.addEventListener("click", function() {
 });
 
 yesButton.addEventListener("click", function() {
-    yesButton.textContent = "Por supuesto que vamos a estar toda la vida bby jijiji 😚😉";
+    yesButton.textContent = "Por supuesto que vamos a estar juntos toda la vida bby jijiji 😚😉";
     yesButton.style.backgroundColor = "#28a745";  
     noButton.disabled = true; 
     noButton.style.cursor = "not-allowed";
